@@ -10,12 +10,9 @@ preferred java IDE or run from the command line.
 ## Prerequisites
 
 * **Windows 10 or higher**
-* **Java JDK version 11 or higher**
-* **Integrated development environment (IDE)** 
-  * IntelliJ IDEA that can be found at https://www.jetbrains.com/
-  * or Eclipse that can be found at https://www.eclipse.org/downloads/
+* **Python 3.6**
 * **7-zip** file management that can be found at https://ninite.com/.
-* IntelliJ was used to run this program but any IDE should be able to run the program.
+* PyCharm was used to run this program but any IDE should be able to run the program.
 
 ## Installing
 
@@ -34,7 +31,7 @@ preferred java IDE or run from the command line.
 5. Set Run configurations to run prefix Class.
 
 ## Built with
-* IntelliJ IDEA
+* PyCharm
 
 ## Version
 * Version 1.0
@@ -44,7 +41,3 @@ preferred java IDE or run from the command line.
 * Ryan McGuire
 
 
-
-
-# MachineLearning
-Basic machine learning for affinity analysis
